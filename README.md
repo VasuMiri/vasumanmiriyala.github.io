@@ -9,9 +9,9 @@
 		}
 		h1 {
 			color: black;
-			font-size: 1000px;
+			font-size: 400px;
 			font-weight: bold;
-			margin-top: 200px;
+			margin-top: 400px;
 			position: relative;
 			opacity: 0;
 			animation: fadeIn 2s forwards;
