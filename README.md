@@ -39,7 +39,7 @@
 <body>
 	<h1>Vasuman Miriyala</h1>
 	<div class="logo-container">
-		<a href="https://www.linkedin.com/in/vasuman-miriyala-314063267/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FLinkedIn%2F&psig=AOvVaw1lsRjBTMznazuxE3Q34QTX&ust=1679960117048000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCbiaPh-v0CFQAAAAAdAAAAABAD" alt="LinkedIn"></a>
+		<a href="https://www.linkedin.com/in/vasuman-miriyala-314063267/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8tOrs3vTGPNgx_tpb8daohHzWBCLvV7rB2i1gzWM&usqp=CAE&s" alt="LinkedIn"></a>
 		<a href="mailto:vasumanmiriyala@gmail.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHistory_of_Gmail&psig=AOvVaw1ilFn5FXG7O1P0tFSmqkuH&ust=1679960205617000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjF2Mzh-v0CFQAAAAAdAAAAABAD" alt="Gmail"></a>
 		<a href="https://discord.gg/wkd6CyjSR4"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fstore%2Fdetail%2Fdiscord%2FXPDC2RH70K22MN&psig=AOvVaw1LKIcRsz_vY8OfuIufBk5m&ust=1679960218816000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJDZi9Ph-v0CFQAAAAAdAAAAABAD" alt="Discord"></a>
 	</div>
