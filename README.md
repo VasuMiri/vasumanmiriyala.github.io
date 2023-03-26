@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 	<title>Vasuman Miriyala</title>
@@ -10,37 +10,30 @@
 		}
 		h1 {
 			color: black;
-			font-size: 60px;
+			font-size: 100px;
 			font-weight: bold;
 			margin-top: 200px;
 			position: relative;
-			animation: type 3s steps(30);
-			overflow: hidden;
-			display: inline-block;
+			opacity: 0;
+			animation: fadeIn 2s forwards;
 		}
-		h1::after {
-			content: "|";
-			position: absolute;
-			right: 0;
-			animation: caret 0.5s step-end infinite;
+		.logo-container {
+			display: flex;
+			justify-content: center;
+			margin-top: 50px;
 		}
 		img {
 			height: 50px;
 			margin: 20px;
 			cursor: pointer;
+			opacity: 0.8;
+			transition: opacity 0.3s ease-in-out;
 		}
 		img:hover {
-			opacity: 0.8;
+			opacity: 1;
 		}
-		.logo-container {
-			display: flex;
-			justify-content: center;
-		}
-		@keyframes type {
-			from { width: 0; }
-		}
-		@keyframes caret {
-			50% { opacity: 0; }
+		@keyframes fadeIn {
+			to { opacity: 1; }
 		}
 	</style>
 </head>
