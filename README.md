@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head>
 	<title>Vasuman Miriyala</title>
 	<style>
