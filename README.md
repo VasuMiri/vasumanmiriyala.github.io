@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html>
+
 <head>
 	<title>Vasuman Miriyala</title>
 	<style>
@@ -12,7 +11,7 @@
 			color: black;
 			font-size: 200px;
 			font-weight: bold;
-			margin: 0 auto;
+			margin: 100px auto 0;
 			position: relative;
 			opacity: 0;
 			animation: fadeIn 2s forwards;
@@ -49,4 +48,4 @@
 		<a href="mailto:vasumanmiriyala@gmail.com"><img src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo.jpg" alt="Gmail"></a>
 	</div>
 </body>
-</html>
+
